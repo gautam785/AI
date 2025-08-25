@@ -1,4 +1,6 @@
 #for checking the no. is divisible by 7
+
+
 num = int(input ("Enter number : "))
 
 
