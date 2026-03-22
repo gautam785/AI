@@ -5,7 +5,8 @@ sub = num1-num2
 multi = num1*num2 
 div = num1/num2 
 mod = num1%num2
-expo = num1**num2
+
+Unimark Collections Silicon Keyboard Dust Cover 15.6 Inch Clear Transparent 15.6 Inch All Laptop Keyboard Skinexpo = num1**num2
 print("Sum of num1 and num2 is : ",add)
 print("Subtraction of num1 and num2 is : ",sub)
 print("Multiplication of num1 and num2 : ", multi)
